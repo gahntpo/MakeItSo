@@ -484,7 +484,7 @@
 				CODE_SIGN_ENTITLEMENTS = "MakeItSo/Make It So.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MakeItSo/Preview Content\"";
-				DEVELOPMENT_TEAM = 2ZB33FC454;
+				DEVELOPMENT_TEAM = 54YLWD89Z8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MakeItSo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -507,7 +507,7 @@
 				CODE_SIGN_ENTITLEMENTS = "MakeItSo/Make It So.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MakeItSo/Preview Content\"";
-				DEVELOPMENT_TEAM = 2ZB33FC454;
+				DEVELOPMENT_TEAM = 54YLWD89Z8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MakeItSo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
