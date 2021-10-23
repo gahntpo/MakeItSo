@@ -22,7 +22,8 @@ Review Firestore with SwiftUI demo project
 # Setup
 - clone project
 - install pods
-- create Firebase iOS app, add GoogleService-Info.plist
+- create Firebase iOS app on console
+- add GoogleService-Info.plist to Xcode project
 - setup Firebase Firestore
 - add index query: Firebase Database > Indexes > Composite - add Index (Collection ID: tasks, Fields Indexed: userId and createdTime)
 - setup Firebase Authentication: anonymously and SignInWithApple
